@@ -39,4 +39,4 @@ public class SelectionSort {
             System.out.print(num + " ");
         }
     }
-} 
+}
